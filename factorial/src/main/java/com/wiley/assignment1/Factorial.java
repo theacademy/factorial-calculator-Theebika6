@@ -64,7 +64,7 @@ public class Factorial {
 		int result = 1;
 		//YOUR CODE STARTS HERE
 		for (int i=1; i <= num; i++){
-			result = result * i; 
+			result = result * i;
 		}
  
 
